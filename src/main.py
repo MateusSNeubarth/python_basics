@@ -1,1 +1,3 @@
-print("Hello World!")
+from simple_calculator import calculator
+
+calculator()

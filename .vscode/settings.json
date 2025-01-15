@@ -1,6 +1,0 @@
-{
-  "python.linting.flake8Enabled": true,
-  "editor.formatOnSave": true,
-  "python.formatting.provider": "black",
-  "python.analysis.autoImportCompletions": false
-}
